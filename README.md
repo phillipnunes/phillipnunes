@@ -5,7 +5,7 @@
 With over a decade of experience in software development, I specialize in creating dynamic, user-centric web solutions using JavaScript, TypeScript, Next.js, and React. My career spans both small startups and large companies, where I have architected and implemented complex front-end systems. I excel in high-pressure environments, consistently delivering exceptional software solutions and fostering a culture of continuous improvement.
 
 ## Experience Highlights:
-- **Web3 Pro (2023 - Present):** Principal Frontend Engineer & Fullstack Software Engineer
+- **Web3 Pro (2023 - 2024):** Principal Frontend Engineer & Fullstack Software Engineer
   - Architected scalable user interfaces and robust APIs using Next.js and Node.js.
   - Led code quality initiatives and mentored junior developers.
   - Integrated third-party services to enhance functionality and user experience.
